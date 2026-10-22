@@ -23,7 +23,7 @@ A Python-based BPUT results scraper that retrieves a student's academic results 
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/Bibek-M/bputResultsVance.git
+git clone https://github.com/Bibek-M/BputResultsVance.git
 cd bputResultsVance
 ```
 
@@ -53,7 +53,13 @@ Run the appropriate command from the project directory.
 
 ```bash
 python -m pip install -r requirements.txt
+
+or
+
+run the start.bat directly to install and run
 ```
+          
+          
 
 **macOS / Linux:**
 
